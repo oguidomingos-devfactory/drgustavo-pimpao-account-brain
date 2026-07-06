@@ -17,3 +17,4 @@
 | 2026-07-06 18:30 UTC | DES-869 sync | Dr. Gustavo Pimpao: 03: Análise PESTLE [backlog] |
 | 2026-07-06 18:30 UTC | DES-868 sync | Dr. Gustavo Pimpao: 02: Business Model Canvas [backlog] |
 | 2026-07-06 18:30 UTC | DES-867 sync | Dr. Gustavo Pimpao: 01: Coleta e Onboarding [backlog] |
+| 2026-07-06 18:35 UTC | DES-866 | atualizado | Dr. Gustavo Pimpao: Proposta Comercial + Preview (LP + Posts + Planos) |
