@@ -27,3 +27,5 @@
 | 2026-07-14 18:30 UTC | DES-871 sync | Dr. Gustavo Pimpao: 05: Análise de Concorrência [backlog] |
 | 2026-07-14 18:30 UTC | DES-870 sync | Dr. Gustavo Pimpao: 04: SWOT [backlog] |
 | 2026-07-14 18:30 UTC | DES-869 sync | Dr. Gustavo Pimpao: 03: Análise PESTLE [backlog] |
+| 2026-07-14 18:43 UTC | DES-865 | atualizado | Dr. Gustavo Pimpao: Proposta Comercial + Preview (LP + Posts + Planos) |
+| 2026-07-14 18:48 UTC | DES-865 | atualizado | Dr. Gustavo Pimpao: Proposta Comercial + Preview (LP + Posts + Planos) |
